@@ -1,0 +1,10 @@
+header, footer, aside,article {
+    border: 1px solid black;
+    badding: 1rem;
+    margin: 1rem;
+}
+
+article {
+    width: 100%;
+}
+
