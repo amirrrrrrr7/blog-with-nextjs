@@ -1,5 +1,9 @@
 # blog-with-nextjs
 
+blog with nextjs
+
+posts api are for JSONplaceholder, open [https://jsonplaceholder.typicode.com].
+
 ## Getting Started
 
 First, run the development server:
