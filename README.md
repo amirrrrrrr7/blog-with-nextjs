@@ -2,7 +2,7 @@
 
 blog with nextjs
 
-posts api are for JSONplaceholder, open [https://jsonplaceholder.typicode.com].
+posts api are for [JSONplaceholder](https://jsonplaceholder.typicode.com).
 
 ## Getting Started
 
